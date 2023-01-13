@@ -1,0 +1,14 @@
+{
+  "resourceName": "legacyangular",
+  "policyUUID": "9ff04d56",
+  "bucketName": "angularlegacycompone5eb1bd0343324cd8bb42403e24c",
+  "storageAccess": "auth",
+  "guestAccess": [],
+  "authAccess": [
+    "CREATE_AND_UPDATE",
+    "READ",
+    "DELETE"
+  ],
+  "triggerFunction": "NONE",
+  "groupAccess": {}
+}
